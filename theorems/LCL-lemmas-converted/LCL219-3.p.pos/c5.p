@@ -1,0 +1,15 @@
+fof(c_0_19,conjecture,![A]:![B]:![C]:axiom(or(not(or(A,or(B,C))),or(B,or(A,C))))).
+cnf(axiom_1_6,axiom,axiom(implies(implies(A,B),implies(or(C,A),or(C,B))))).
+cnf(implies_definition,axiom,implies(A,B)=or(not(A),B)).
+cnf(axiom_1_5,axiom,axiom(implies(or(A,or(B,C)),or(B,or(A,C))))).
+cnf(rule_2,axiom,(theorem(A)|~theorem(implies(B,A))|~theorem(B))).
+cnf(rule_1,axiom,(theorem(A)|~axiom(A))).
+cnf(axiom_1_4,axiom,axiom(implies(or(A,B),or(B,A)))).
+cnf(axiom_1_3,axiom,axiom(implies(A,or(B,A)))).
+cnf(c_0_8,axiom,axiom(implies(implies(A,B),implies(or(C,A),or(C,B))))).
+cnf(c_0_9,axiom,implies(A,B)=or(not(A),B)).
+cnf(c_0_10,axiom,axiom(implies(or(A,or(B,C)),or(B,or(A,C))))).
+cnf(c_0_11,axiom,(theorem(A)|~theorem(implies(B,A))|~theorem(B))).
+cnf(c_0_12,axiom,(theorem(A)|~axiom(A))).
+cnf(c_0_18,axiom,axiom(implies(or(A,B),or(B,A)))).
+cnf(c_0_24,axiom,axiom(implies(A,or(B,A)))).

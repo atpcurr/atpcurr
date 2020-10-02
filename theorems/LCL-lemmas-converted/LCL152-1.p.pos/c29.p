@@ -1,0 +1,13 @@
+fof(c_0_50,conjecture,![A]:![B]:![C]:implies(A,implies(B,C))=implies(B,implies(A,C))).
+cnf(wajsberg_2,axiom,implies(implies(A,B),implies(implies(B,C),implies(A,C)))=truth).
+cnf(wajsberg_1,axiom,implies(truth,A)=A).
+cnf(wajsberg_3,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(wajsberg_4,axiom,implies(implies(not(A),not(B)),implies(B,A))=truth).
+cnf(big_hat_definition,axiom,big_hat(A,B)=not(big_V(not(A),not(B)))).
+cnf(big_V_definition,axiom,big_V(A,B)=implies(implies(A,B),B)).
+cnf(c_0_7,axiom,implies(implies(A,B),implies(implies(B,C),implies(A,C)))=truth).
+cnf(c_0_8,axiom,implies(truth,A)=A).
+cnf(c_0_9,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(c_0_18,axiom,implies(implies(not(A),not(B)),implies(B,A))=truth).
+cnf(c_0_28,axiom,big_hat(A,B)=not(big_V(not(A),not(B)))).
+cnf(c_0_29,axiom,big_V(A,B)=implies(implies(A,B),B)).

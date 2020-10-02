@@ -1,0 +1,2 @@
+python gen_random.py --preamble_file peano_extended_rewrite.p --count 200 --first_limit 10 --op_count 1 --ops "plus|10,mul|10,div|10" --output_dir ../theorems/rewrite/eval_add_mul_div2
+python gen_random.py --preamble_file peano_extended_rewrite.p --count 100 --first_limit 100 --op_count 1 --ops "div|100" --output_dir ../theorems/rewrite/eval_add_mul_div2

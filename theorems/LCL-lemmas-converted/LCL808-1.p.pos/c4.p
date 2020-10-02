@@ -1,0 +1,9 @@
+fof(c_0_7,conjecture,![A]:![B]:![C]:![D]:(c_InductTermi_OIT(c_Lambda_Osubst(v_b____,A,B))|~c_InductTermi_OIT(A)|~c_Type_Otyping(C,A,v_T____)|~c_Type_Otyping(c_Type_Oshift(C,B,v_T____,tc_Type_Otype),v_b____,D))).
+cnf(cls_CHAINED_0_01,axiom,(c_InductTermi_OIT(c_Lambda_Osubst(v_b____,A,B))|~c_Type_Otyping(C,A,v_T____)|~c_InductTermi_OIT(A)|~c_Type_Otyping(c_Type_Oshift(C,B,v_T____,tc_Type_Otype),v_b____,D))).
+cnf(cls_CHAINED_0,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),v_b____,v_Ua____)).
+cnf(cls_CHAINED_0_03,axiom,c_Type_Otyping(v_e____,v_u____,v_T____)).
+cnf(cls_uIT_0,axiom,c_InductTermi_OIT(v_u____)).
+cnf(c_0_5,axiom,(c_InductTermi_OIT(c_Lambda_Osubst(v_b____,A,B))|~c_Type_Otyping(C,A,v_T____)|~c_InductTermi_OIT(A)|~c_Type_Otyping(c_Type_Oshift(C,B,v_T____,tc_Type_Otype),v_b____,D))).
+cnf(c_0_6,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),v_b____,v_Ua____)).
+cnf(c_0_9,axiom,c_Type_Otyping(v_e____,v_u____,v_T____)).
+cnf(c_0_10,axiom,c_InductTermi_OIT(v_u____)).

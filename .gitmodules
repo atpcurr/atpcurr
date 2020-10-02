@@ -1,0 +1,3 @@
+[submodule "hashtbl"]
+	path = hashtbl
+	url = https://github.com/gergo-/hashtbl

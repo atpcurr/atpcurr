@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file gcd_binary.p --count 300 --type gcd --encoding binary_hol --first_limit 10 --op_count 0 --ops "plus|10,mul|10" --output_dir ../theorems/gcd/simple/small

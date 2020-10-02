@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_fof.p --count 100 --first_limit 100 --op_count 1 --ops "plus|100,mul|100" --output_dir ../theorems/robinson/simple/huge

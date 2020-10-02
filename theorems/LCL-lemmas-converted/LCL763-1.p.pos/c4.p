@@ -1,0 +1,9 @@
+fof(c_0_12,conjecture,![A]:![B]:(hBOOL(hAPP(c_InductTermi_OIT,c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),B,tc_Lambda_OdB,tc_Lambda_OdB)))|~c_List_Olistsp(c_InductTermi_OIT,B,tc_Lambda_OdB))).
+cnf(cls_Var__eq__apps__conv_2,axiom,c_Lambda_OdB_OVar(A)=c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),c_List_Olist_ONil(tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB)).
+cnf(cls_IT_OVar_0,axiom,(hBOOL(hAPP(c_InductTermi_OIT,c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),B,tc_Lambda_OdB,tc_Lambda_OdB)))|~c_List_Olistsp(c_InductTermi_OIT,B,tc_Lambda_OdB))).
+cnf(cls_foldl__Nil_0,axiom,c_List_Ofoldl(A,B,c_List_Olist_ONil(C),D,C)=B).
+cnf(cls_listsp_ONil_0,axiom,c_List_Olistsp(A,c_List_Olist_ONil(B),B)).
+cnf(c_0_6,axiom,c_Lambda_OdB_OVar(A)=c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),c_List_Olist_ONil(tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB)).
+cnf(c_0_7,axiom,(hBOOL(hAPP(c_InductTermi_OIT,c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),B,tc_Lambda_OdB,tc_Lambda_OdB)))|~c_List_Olistsp(c_InductTermi_OIT,B,tc_Lambda_OdB))).
+cnf(c_0_8,axiom,c_List_Ofoldl(A,B,c_List_Olist_ONil(C),D,C)=B).
+cnf(c_0_9,axiom,c_List_Olistsp(A,c_List_Olist_ONil(B),B)).

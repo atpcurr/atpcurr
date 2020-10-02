@@ -1,0 +1,13 @@
+fof(c_0_62,conjecture,![A]:![B]:(p(i(A,i(B,A)))|~p(i(B,i(i(B,A),A))))).
+cnf(modus_ponens,axiom,(p(A)|~p(i(B,A))|~p(B))).
+cnf(axBp,axiom,p(i(i(A,B),i(i(B,C),i(A,C))))).
+cnf(axTO,axiom,p(i(i(i(A,B),i(B,A)),i(B,A)))).
+cnf(resid2,axiom,(p(i(f(A,B),C))|~p(i(A,i(B,C))))).
+cnf(axL,axiom,p(i(i(i(A,B),B),i(i(B,A),A)))).
+cnf(resid1,axiom,(p(i(A,i(B,C)))|~p(i(f(A,B),C)))).
+cnf(c_0_7,axiom,(p(A)|~p(i(B,A))|~p(B))).
+cnf(c_0_8,axiom,p(i(i(A,B),i(i(B,C),i(A,C))))).
+cnf(c_0_13,axiom,p(i(i(i(A,B),i(B,A)),i(B,A)))).
+cnf(c_0_15,axiom,(p(i(f(A,B),C))|~p(i(A,i(B,C))))).
+cnf(c_0_21,axiom,p(i(i(i(A,B),B),i(i(B,A),A)))).
+cnf(c_0_28,axiom,(p(i(A,i(B,C)))|~p(i(f(A,B),C)))).

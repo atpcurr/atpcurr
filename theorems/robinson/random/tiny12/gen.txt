@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_fof.p --count 1000 --type pairs --first_limit 3 --op_count 3 --ops "plus|3,mul|3" --output_dir ../theorems/robinson/random/tiny12

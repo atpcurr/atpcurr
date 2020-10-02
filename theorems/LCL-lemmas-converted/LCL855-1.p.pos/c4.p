@@ -1,0 +1,9 @@
+fof(c_0_8,conjecture,![A]:![B]:![C]:![D]:c_Lambda_OdB_OApp(c_Lambda_Osubst(A,B,C),c_Lambda_Osubst(D,B,C))=c_Lambda_Osubst(c_Lambda_OdB_OApp(A,D),B,C)).
+cnf(cls_subst__App_0,axiom,c_Lambda_Osubst(c_Lambda_OdB_OApp(A,B),C,D)=c_Lambda_OdB_OApp(c_Lambda_Osubst(A,C,D),c_Lambda_Osubst(B,C,D))).
+cnf(cls_subst__lift_0,axiom,c_Lambda_Osubst(c_Lambda_Olift(A,B),C,B)=A).
+cnf(cls_CHAINED_0,axiom,c_InductTermi_OIT(c_Lambda_Osubst(c_Lambda_OdB_OApp(c_Lambda_OdB_OVar(c_HOL_Ozero__class_Ozero(tc_nat)),c_Lambda_Olift(v_ta____,c_HOL_Ozero__class_Ozero(tc_nat))),v_s____,c_HOL_Ozero__class_Ozero(tc_nat)))).
+cnf(cls_subst__eq_0,axiom,c_Lambda_Osubst(c_Lambda_OdB_OVar(A),B,A)=B).
+cnf(c_0_5,axiom,c_Lambda_Osubst(c_Lambda_OdB_OApp(A,B),C,D)=c_Lambda_OdB_OApp(c_Lambda_Osubst(A,C,D),c_Lambda_Osubst(B,C,D))).
+cnf(c_0_6,axiom,c_Lambda_Osubst(c_Lambda_Olift(A,B),C,B)=A).
+cnf(c_0_7,axiom,c_InductTermi_OIT(c_Lambda_Osubst(c_Lambda_OdB_OApp(c_Lambda_OdB_OVar(c_HOL_Ozero__class_Ozero(tc_nat)),c_Lambda_Olift(v_ta____,c_HOL_Ozero__class_Ozero(tc_nat))),v_s____,c_HOL_Ozero__class_Ozero(tc_nat)))).
+cnf(c_0_10,axiom,c_Lambda_Osubst(c_Lambda_OdB_OVar(A),B,A)=B).

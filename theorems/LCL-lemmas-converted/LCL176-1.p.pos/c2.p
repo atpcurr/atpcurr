@@ -1,0 +1,9 @@
+fof(c_0_8,conjecture,![A]:(theorem(A)|~axiom(A))).
+cnf(rule_3,axiom,(theorem(or(not(A),B))|~axiom(or(not(A),C))|~theorem(or(not(C),B)))).
+cnf(rule_1,axiom,(theorem(A)|~axiom(A))).
+cnf(axiom_1_3,axiom,axiom(or(not(A),or(B,A)))).
+cnf(axiom_1_2,axiom,axiom(or(not(or(A,A)),A))).
+cnf(c_0_5,axiom,(theorem(or(not(A),B))|~axiom(or(not(A),C))|~theorem(or(not(C),B)))).
+cnf(c_0_6,axiom,(theorem(A)|~axiom(A))).
+cnf(c_0_9,axiom,axiom(or(not(A),or(B,A)))).
+cnf(c_0_12,axiom,axiom(or(not(or(A,A)),A))).

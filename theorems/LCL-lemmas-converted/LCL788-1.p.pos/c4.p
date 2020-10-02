@@ -1,0 +1,11 @@
+fof(c_0_16,conjecture,![A]:![B]:![C]:(hAPP(A,B)=C|~c_Type_Otyping(A,c_Lambda_OdB_OVar(B),C))).
+cnf(cls_varT_0,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),c_Lambda_OdB_OVar(v_n____),hAPP(hAPP(c_Type_Otype_OFun,v_T_H_H____),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype)))).
+cnf(cls_foldr__foldl_0,axiom,c_List_Ofoldr(A,B,C,D,E)=c_List_Ofoldl(c_COMBC(A,D,E,E),C,c_List_Orev(B,D),E,D)).
+cnf(cls_True_0,axiom,v_n____=v_i____).
+cnf(cls_typing__elims_I1_J_0,axiom,(hAPP(A,B)=C|~c_Type_Otyping(A,c_Lambda_OdB_OVar(B),C))).
+cnf(cls_shift__eq_0,axiom,hAPP(c_Type_Oshift(A,B,C,D),B)=C).
+cnf(c_0_6,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),c_Lambda_OdB_OVar(v_n____),hAPP(hAPP(c_Type_Otype_OFun,v_T_H_H____),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype)))).
+cnf(c_0_7,axiom,c_List_Ofoldr(A,B,C,D,E)=c_List_Ofoldl(c_COMBC(A,D,E,E),C,c_List_Orev(B,D),E,D)).
+cnf(c_0_9,axiom,v_n____=v_i____).
+cnf(c_0_11,axiom,(hAPP(A,B)=C|~c_Type_Otyping(A,c_Lambda_OdB_OVar(B),C))).
+cnf(c_0_14,axiom,hAPP(c_Type_Oshift(A,B,C,D),B)=C).

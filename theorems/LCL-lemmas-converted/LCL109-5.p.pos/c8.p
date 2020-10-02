@@ -1,0 +1,17 @@
+fof(c_0_21,conjecture,![A]:![B]:![C]:(ordered(A,implies(B,C))|~ordered(B,implies(A,C)))).
+cnf(lemma_1,axiom,(ordered(implies(A,B),implies(C,B))|~ordered(A,C))).
+cnf(wajsberg_1,axiom,implies(truth,A)=A).
+cnf(wajsberg_3,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(partial_order_definition2,axiom,(ordered(A,B)|(!implies(A,B))=truth)).
+cnf(lemma_3_1,axiom,(ordered(A,implies(B,C))|~ordered(B,implies(A,C)))).
+cnf(partial_order_definition1,axiom,(implies(A,B)=truth|~ordered(A,B))).
+cnf(wajsberg_4,axiom,implies(implies(not(A),not(B)),implies(B,A))=truth).
+cnf(big_V_definition,axiom,big_V(A,B)=implies(implies(A,B),B)).
+cnf(c_0_9,axiom,(ordered(implies(A,B),implies(C,B))|~ordered(A,C))).
+cnf(c_0_10,axiom,implies(truth,A)=A).
+cnf(c_0_13,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(c_0_15,axiom,(ordered(A,B)|(!implies(A,B))=truth)).
+cnf(c_0_16,axiom,(ordered(A,implies(B,C))|~ordered(B,implies(A,C)))).
+cnf(c_0_20,axiom,(implies(A,B)=truth|~ordered(A,B))).
+cnf(c_0_28,axiom,implies(implies(not(A),not(B)),implies(B,A))=truth).
+cnf(c_0_34,axiom,big_V(A,B)=implies(implies(A,B),B)).

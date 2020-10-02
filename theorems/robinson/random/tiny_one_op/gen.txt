@@ -1,0 +1,2 @@
+python gen_random.py --preamble_file peano_fof.p --count 1000 --type pairs --first_limit 2 --op_count 1 --ops "plus|2,mul|2" --output_dir ../theorems/robinson/random/tiny_one_op
+# code was tweaked to allow the same term on both sides

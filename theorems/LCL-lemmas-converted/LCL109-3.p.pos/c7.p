@@ -1,0 +1,17 @@
+fof(c_0_25,conjecture,![A]:![B]:![C]:implies(A,implies(B,C))=implies(B,implies(A,C))).
+cnf(lemma_10,axiom,implies(not(A),not(B))=implies(B,A)).
+cnf(wajsberg_3,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(wajsberg_2,axiom,implies(implies(A,B),implies(implies(B,C),implies(A,C)))=truth).
+cnf(lemma_9,axiom,not(not(A))=A).
+cnf(lemma_7,axiom,implies(A,implies(B,C))=implies(B,implies(A,C))).
+cnf(lemma_4,axiom,implies(A,implies(B,A))=truth).
+cnf(lemma_8,axiom,implies(A,not(truth))=not(A)).
+cnf(wajsberg_1,axiom,implies(truth,A)=A).
+cnf(c_0_9,axiom,implies(not(A),not(B))=implies(B,A)).
+cnf(c_0_12,axiom,implies(implies(A,B),B)=implies(implies(B,A),A)).
+cnf(c_0_13,axiom,implies(implies(A,B),implies(implies(B,C),implies(A,C)))=truth).
+cnf(c_0_14,axiom,not(not(A))=A).
+cnf(c_0_18,axiom,implies(A,implies(B,C))=implies(B,implies(A,C))).
+cnf(c_0_21,axiom,implies(A,implies(B,A))=truth).
+cnf(c_0_22,axiom,implies(A,not(truth))=not(A)).
+cnf(c_0_30,axiom,implies(truth,A)=A).

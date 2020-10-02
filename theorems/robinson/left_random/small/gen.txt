@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_fof.p --count 1000 --first_limit 10 --op_count 3 --ops "plus|10,mul|10" --output_dir ../theorems/robinson/left_random/small

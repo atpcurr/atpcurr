@@ -1,0 +1,7 @@
+fof(c_0_11,conjecture,![A]:![B]:![C]:![D]:c_in(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,c_PropLog_Opl_Ofalse,C),B,C),B,C),C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))).
+cnf(cls_PropLog_Othms_OMP_0,axiom,(c_in(A,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(D,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(D,A,C),c_PropLog_Othms(B,C),tc_PropLog_Opl(C)))).
+cnf(cls_PropLog_Othms__excluded__middle_0,axiom,c_in(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,c_PropLog_Opl_Ofalse,C),B,C),B,C),C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))).
+cnf(cls_PropLog_Odeduction_0,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(c_insert(A,D,tc_PropLog_Opl(C)),C),tc_PropLog_Opl(C)))).
+cnf(c_0_6,axiom,(c_in(A,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(D,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(D,A,C),c_PropLog_Othms(B,C),tc_PropLog_Opl(C)))).
+cnf(c_0_7,axiom,c_in(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,c_PropLog_Opl_Ofalse,C),B,C),B,C),C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))).
+cnf(c_0_8,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(c_insert(A,D,tc_PropLog_Opl(C)),C),tc_PropLog_Opl(C)))).

@@ -1,0 +1,9 @@
+*.pkl
+nohup.out
+log/*
+out/*
+*~
+__pycache__/*
+generators/__pycache__/*
+results/*
+

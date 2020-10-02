@@ -1,0 +1,2 @@
+python gen_random.py --preamble_file peano_fof.p --count 1000 --type pairs --first_limit 6 --op_count 1 --ops "plus|6,mul|6" --output_dir ../theorems/robinson/random/tiny_one_op12345
+# code was tweaked to allow the same term on both sides

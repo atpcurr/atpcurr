@@ -1,0 +1,11 @@
+fof(c_0_15,conjecture,![A]:![B]:![C]:![D]:![E]:(c_Type_Otyping(A,c_List_Ofoldl(c_Lambda_OdB_OApp,B,C,tc_Lambda_OdB,tc_Lambda_OdB),D)|~c_Type_Otypings(A,C,E)|~c_Type_Otyping(A,B,c_List_Ofoldl(c_COMBC(c_Type_Otype_OFun,tc_Type_Otype,tc_Type_Otype,tc_Type_Otype),D,c_List_Orev(E,tc_Type_Otype),tc_Type_Otype,tc_Type_Otype)))).
+cnf(cls_list__app__typeI_0,axiom,(c_Type_Otyping(A,c_List_Ofoldl(c_Lambda_OdB_OApp,B,C,tc_Lambda_OdB,tc_Lambda_OdB),D)|~c_Type_Otypings(A,C,E)|~c_Type_Otyping(A,B,c_List_Ofoldr(c_Type_Otype_OFun,E,D,tc_Type_Otype,tc_Type_Otype)))).
+cnf(cls_foldr__foldl_0,axiom,c_List_Ofoldr(A,B,C,D,E)=c_List_Ofoldl(c_COMBC(A,D,E,E),C,c_List_Orev(B,D),E,D)).
+cnf(cls_typing_OVar_0,axiom,c_Type_Otyping(A,c_Lambda_OdB_OVar(B),hAPP(A,B))).
+cnf(cls_shift__eq_0,axiom,hAPP(c_Type_Oshift(A,B,C,D),B)=C).
+cnf(cls_CHAINED_0,axiom,c_Type_Otypings(c_Type_Oshift(v_e____,c_HOL_Ozero__class_Ozero(tc_nat),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype),tc_Type_Otype),c_List_Omap(hAPP(c_COMBC(c_Lambda_Olift,tc_Lambda_OdB,tc_nat,tc_Lambda_OdB),c_HOL_Ozero__class_Ozero(tc_nat)),c_List_Omap(hAPP(c_COMBC(hAPP(c_COMBC(c_Lambda_Osubst,tc_Lambda_OdB,tc_Lambda_OdB,tc_fun(tc_nat,tc_Lambda_OdB)),v_u____),tc_Lambda_OdB,tc_nat,tc_Lambda_OdB),v_i____),v_as____,tc_Lambda_OdB,tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB),v_Ts____)).
+cnf(c_0_6,axiom,(c_Type_Otyping(A,c_List_Ofoldl(c_Lambda_OdB_OApp,B,C,tc_Lambda_OdB,tc_Lambda_OdB),D)|~c_Type_Otypings(A,C,E)|~c_Type_Otyping(A,B,c_List_Ofoldr(c_Type_Otype_OFun,E,D,tc_Type_Otype,tc_Type_Otype)))).
+cnf(c_0_7,axiom,c_List_Ofoldr(A,B,C,D,E)=c_List_Ofoldl(c_COMBC(A,D,E,E),C,c_List_Orev(B,D),E,D)).
+cnf(c_0_8,axiom,c_Type_Otyping(A,c_Lambda_OdB_OVar(B),hAPP(A,B))).
+cnf(c_0_9,axiom,hAPP(c_Type_Oshift(A,B,C,D),B)=C).
+cnf(c_0_13,axiom,c_Type_Otypings(c_Type_Oshift(v_e____,c_HOL_Ozero__class_Ozero(tc_nat),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype),tc_Type_Otype),c_List_Omap(hAPP(c_COMBC(c_Lambda_Olift,tc_Lambda_OdB,tc_nat,tc_Lambda_OdB),c_HOL_Ozero__class_Ozero(tc_nat)),c_List_Omap(hAPP(c_COMBC(hAPP(c_COMBC(c_Lambda_Osubst,tc_Lambda_OdB,tc_Lambda_OdB,tc_fun(tc_nat,tc_Lambda_OdB)),v_u____),tc_Lambda_OdB,tc_nat,tc_Lambda_OdB),v_i____),v_as____,tc_Lambda_OdB,tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB),v_Ts____)).

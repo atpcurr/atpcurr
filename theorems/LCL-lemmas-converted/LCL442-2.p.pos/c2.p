@@ -1,0 +1,11 @@
+fof(c_0_42,conjecture,![A]:![B]:![C]:![D]:(c_in(A,c_PropLog_Othms(c_union(B,C,tc_PropLog_Opl(D)),D),tc_PropLog_Opl(D))|~c_in(A,c_PropLog_Othms(C,D),tc_PropLog_Opl(D)))).
+cnf(cls_PropLog_Ofalse__imp_0,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(A,c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(cls_PropLog_Oweaken__left__Un1_0,axiom,(c_in(A,c_PropLog_Othms(c_union(B,C,tc_PropLog_Opl(D)),D),tc_PropLog_Opl(D))|~c_in(A,c_PropLog_Othms(B,D),tc_PropLog_Opl(D)))).
+cnf(cls_PropLog_Oimp__false_0,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(A,c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(B,c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(cls_PropLog_Oweaken__left__Un2_0,axiom,(c_in(A,c_PropLog_Othms(c_union(B,C,tc_PropLog_Opl(D)),D),tc_PropLog_Opl(D))|~c_in(A,c_PropLog_Othms(C,D),tc_PropLog_Opl(D)))).
+cnf(cls_PropLog_Oweaken__right_0,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(c_0_14,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(A,c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(c_0_17,axiom,(c_in(A,c_PropLog_Othms(c_union(B,C,tc_PropLog_Opl(D)),D),tc_PropLog_Opl(D))|~c_in(A,c_PropLog_Othms(B,D),tc_PropLog_Opl(D)))).
+cnf(c_0_34,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(A,c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(c_PropLog_Opl_Oop_A_N_62(B,c_PropLog_Opl_Ofalse,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(c_0_36,axiom,(c_in(A,c_PropLog_Othms(c_union(B,C,tc_PropLog_Opl(D)),D),tc_PropLog_Opl(D))|~c_in(A,c_PropLog_Othms(C,D),tc_PropLog_Opl(D)))).
+cnf(c_0_58,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).

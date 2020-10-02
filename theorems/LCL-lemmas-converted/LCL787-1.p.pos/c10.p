@@ -1,0 +1,11 @@
+fof(c_0_18,conjecture,![A]:(~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),c_Lambda_OdB_OVar(v_i____),hAPP(hAPP(c_Type_Otype_OFun,A),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype)))|~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),v_a____,A))).
+cnf(cls_True_0,axiom,v_n____=v_i____).
+cnf(cls_that_0,axiom,(v_thesis____|~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),v_a____,A)|~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),c_Lambda_OdB_OVar(v_n____),hAPP(hAPP(c_Type_Otype_OFun,A),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype))))).
+cnf(cls_typing__elims_I2_J_0,axiom,(c_Type_Otyping(A,B,hAPP(hAPP(c_Type_Otype_OFun,c_Type_Osko__Type__Xtyping__elims__2__1(C,A,B,D)),C))|~c_Type_Otyping(A,hAPP(hAPP(c_Lambda_OdB_OApp,B),D),C))).
+cnf(cls_typing__elims_I2_J_1,axiom,(c_Type_Otyping(A,B,c_Type_Osko__Type__Xtyping__elims__2__1(C,A,D,B))|~c_Type_Otyping(A,hAPP(hAPP(c_Lambda_OdB_OApp,D),B),C))).
+cnf(cls_headT_0,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),hAPP(hAPP(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(v_n____)),v_a____),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype))).
+cnf(c_0_6,axiom,v_n____=v_i____).
+cnf(c_0_8,axiom,(v_thesis____|~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),v_a____,A)|~c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),c_Lambda_OdB_OVar(v_n____),hAPP(hAPP(c_Type_Otype_OFun,A),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype))))).
+cnf(c_0_11,axiom,(c_Type_Otyping(A,B,hAPP(hAPP(c_Type_Otype_OFun,c_Type_Osko__Type__Xtyping__elims__2__1(C,A,B,D)),C))|~c_Type_Otyping(A,hAPP(hAPP(c_Lambda_OdB_OApp,B),D),C))).
+cnf(c_0_16,axiom,(c_Type_Otyping(A,B,c_Type_Osko__Type__Xtyping__elims__2__1(C,A,D,B))|~c_Type_Otyping(A,hAPP(hAPP(c_Lambda_OdB_OApp,D),B),C))).
+cnf(c_0_17,axiom,c_Type_Otyping(c_Type_Oshift(v_e____,v_i____,v_T____,tc_Type_Otype),hAPP(hAPP(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(v_n____)),v_a____),c_List_Ofoldr(c_Type_Otype_OFun,v_Ts____,v_T_H____,tc_Type_Otype,tc_Type_Otype))).

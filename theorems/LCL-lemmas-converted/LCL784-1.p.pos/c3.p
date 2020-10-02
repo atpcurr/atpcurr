@@ -1,0 +1,11 @@
+fof(c_0_19,conjecture,hBOOL(hAPP(c_InductTermi_OIT,v_u____))).
+cnf(cls_True_0,axiom,v_n____=v_i____).
+cnf(cls_Var__eq__apps__conv_2,axiom,c_Lambda_OdB_OVar(A)=c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),c_List_Olist_ONil(tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB)).
+cnf(cls_Nil_0,axiom,v_rs____=c_List_Olist_ONil(tc_Lambda_OdB)).
+cnf(cls_subst__eq_0,axiom,hAPP(hAPP(hAPP(c_Lambda_Osubst,c_Lambda_OdB_OVar(A)),B),A)=B).
+cnf(cls_uIT_0,axiom,hBOOL(hAPP(c_InductTermi_OIT,v_u____))).
+cnf(c_0_7,axiom,v_n____=v_i____).
+cnf(c_0_8,axiom,c_Lambda_OdB_OVar(A)=c_List_Ofoldl(c_Lambda_OdB_OApp,c_Lambda_OdB_OVar(A),c_List_Olist_ONil(tc_Lambda_OdB),tc_Lambda_OdB,tc_Lambda_OdB)).
+cnf(c_0_9,axiom,v_rs____=c_List_Olist_ONil(tc_Lambda_OdB)).
+cnf(c_0_14,axiom,hAPP(hAPP(hAPP(c_Lambda_Osubst,c_Lambda_OdB_OVar(A)),B),A)=B).
+cnf(c_0_15,axiom,hBOOL(hAPP(c_InductTermi_OIT,v_u____))).

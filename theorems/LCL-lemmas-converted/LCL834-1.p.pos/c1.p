@@ -1,0 +1,5 @@
+fof(c_0_8,conjecture,![A]:![B]:hBOOL(hAPP(hAPP(c_Lambda_Obeta,hAPP(hAPP(c_Lambda_OdB_OApp,c_Lambda_OdB_OAbs(A)),B)),hAPP(hAPP(hAPP(c_Lambda_Osubst,A),B),c_HOL_Ozero__class_Ozero(tc_nat))))).
+cnf(cls_apps__preserves__beta_0,axiom,(hBOOL(hAPP(hAPP(c_Lambda_Obeta,c_List_Ofoldl(c_Lambda_OdB_OApp,A,B,tc_Lambda_OdB,tc_Lambda_OdB)),c_List_Ofoldl(c_Lambda_OdB_OApp,C,B,tc_Lambda_OdB,tc_Lambda_OdB)))|~hBOOL(hAPP(hAPP(c_Lambda_Obeta,A),C)))).
+cnf(cls_beta_0,axiom,hBOOL(hAPP(hAPP(c_Lambda_Obeta,hAPP(hAPP(c_Lambda_OdB_OApp,c_Lambda_OdB_OAbs(A)),B)),hAPP(hAPP(hAPP(c_Lambda_Osubst,A),B),c_HOL_Ozero__class_Ozero(tc_nat))))).
+cnf(c_0_4,axiom,(hBOOL(hAPP(hAPP(c_Lambda_Obeta,c_List_Ofoldl(c_Lambda_OdB_OApp,A,B,tc_Lambda_OdB,tc_Lambda_OdB)),c_List_Ofoldl(c_Lambda_OdB_OApp,C,B,tc_Lambda_OdB,tc_Lambda_OdB)))|~hBOOL(hAPP(hAPP(c_Lambda_Obeta,A),C)))).
+cnf(c_0_5,axiom,hBOOL(hAPP(hAPP(c_Lambda_Obeta,hAPP(hAPP(c_Lambda_OdB_OApp,c_Lambda_OdB_OAbs(A)),B)),hAPP(hAPP(hAPP(c_Lambda_Osubst,A),B),c_HOL_Ozero__class_Ozero(tc_nat))))).

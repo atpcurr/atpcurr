@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_extended_rewrite.p --count 100 --first_limit 10 --op_count 3 --ops "plus|10,mul|10" --output_dir ../theorems/rewrite/eval1_largenum

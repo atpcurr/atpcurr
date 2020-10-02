@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_extended_fof.p --count 1000 --first_limit 30 --op_count 1 --ops "plus|30,mul|30,neg|30,div|30" --output_dir ../theorems/extended/simple/large

@@ -1,0 +1,13 @@
+fof(c_0_19,conjecture,![A]:![B]:is_a_theorem(implies(A,implies(B,B)))).
+cnf(condensed_detachment,axiom,(is_a_theorem(A)|~is_a_theorem(implies(B,A))|~is_a_theorem(B))).
+cnf(cn_21,axiom,is_a_theorem(implies(implies(A,implies(B,C)),implies(B,implies(A,C))))).
+cnf(cn_18,axiom,is_a_theorem(implies(A,implies(B,A)))).
+cnf(cn_22,axiom,is_a_theorem(implies(implies(A,B),implies(implies(C,A),implies(C,B))))).
+cnf(cn_54,axiom,is_a_theorem(implies(implies(A,B),implies(implies(not(A),B),B)))).
+cnf(cn_3,axiom,is_a_theorem(implies(A,implies(not(A),B)))).
+cnf(c_0_7,axiom,(is_a_theorem(A)|~is_a_theorem(implies(B,A))|~is_a_theorem(B))).
+cnf(c_0_8,axiom,is_a_theorem(implies(implies(A,implies(B,C)),implies(B,implies(A,C))))).
+cnf(c_0_11,axiom,is_a_theorem(implies(A,implies(B,A)))).
+cnf(c_0_15,axiom,is_a_theorem(implies(implies(A,B),implies(implies(C,A),implies(C,B))))).
+cnf(c_0_21,axiom,is_a_theorem(implies(implies(A,B),implies(implies(not(A),B),B)))).
+cnf(c_0_26,axiom,is_a_theorem(implies(A,implies(not(A),B)))).

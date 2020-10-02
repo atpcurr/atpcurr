@@ -1,0 +1,9 @@
+fof(c_0_27,conjecture,![A]:![B]:![C]:c_in(c_PropLog_Opl_Oop_A_N_62(A,A,B),c_PropLog_Othms(C,B),tc_PropLog_Opl(B))).
+cnf(cls_PropLog_Oweaken__right_0,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(cls_Set_OinsertE_0,axiom,(c_in(A,B,C)|A=D|~c_in(A,c_insert(D,B,C),C))).
+cnf(cls_PropLog_Othms_OH_0,axiom,(c_in(A,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(A,B,tc_PropLog_Opl(C)))).
+cnf(cls_PropLog_Othms__I_0,axiom,c_in(c_PropLog_Opl_Oop_A_N_62(A,A,B),c_PropLog_Othms(C,B),tc_PropLog_Opl(B))).
+cnf(c_0_7,axiom,(c_in(c_PropLog_Opl_Oop_A_N_62(A,B,C),c_PropLog_Othms(D,C),tc_PropLog_Opl(C))|~c_in(B,c_PropLog_Othms(D,C),tc_PropLog_Opl(C)))).
+cnf(c_0_8,axiom,(c_in(A,B,C)|A=D|~c_in(A,c_insert(D,B,C),C))).
+cnf(c_0_12,axiom,(c_in(A,c_PropLog_Othms(B,C),tc_PropLog_Opl(C))|~c_in(A,B,tc_PropLog_Opl(C)))).
+cnf(c_0_22,axiom,c_in(c_PropLog_Opl_Oop_A_N_62(A,A,B),c_PropLog_Othms(C,B),tc_PropLog_Opl(B))).

@@ -1,0 +1,1 @@
+python gen_random.py --preamble_file peano_extended_rewrite.p --count 200 --first_limit 2 --op_count 3 --ops "plus|2,mul|2,div|2" --output_dir ../theorems/rewrite_consistent/eval_add_mul_div

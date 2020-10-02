@@ -1,0 +1,15 @@
+fof(c_0_32,conjecture,![A]:![B]:(is_a_theorem(implies(A,A))|~is_a_theorem(implies(A,B)))).
+cnf(condensed_detachment,axiom,(is_a_theorem(A)|~is_a_theorem(implies(B,A))|~is_a_theorem(B))).
+cnf(necessitation1,axiom,is_a_theorem(implies(necessary(implies(A,B)),implies(necessary(A),necessary(B))))).
+cnf(cn_35,axiom,is_a_theorem(implies(implies(A,implies(B,C)),implies(implies(A,B),implies(A,C))))).
+cnf(axiom_of_necessitation,axiom,(is_a_theorem(necessary(A))|~is_a_theorem(A))).
+cnf(cn_18,axiom,is_a_theorem(implies(A,implies(B,A)))).
+cnf(cn_49,axiom,is_a_theorem(implies(implies(not(A),not(B)),implies(B,A)))).
+cnf(necessitation2,axiom,is_a_theorem(implies(necessary(A),A))).
+cnf(c_0_8,axiom,(is_a_theorem(A)|~is_a_theorem(implies(B,A))|~is_a_theorem(B))).
+cnf(c_0_9,axiom,is_a_theorem(implies(necessary(implies(A,B)),implies(necessary(A),necessary(B))))).
+cnf(c_0_12,axiom,is_a_theorem(implies(implies(A,implies(B,C)),implies(implies(A,B),implies(A,C))))).
+cnf(c_0_14,axiom,(is_a_theorem(necessary(A))|~is_a_theorem(A))).
+cnf(c_0_16,axiom,is_a_theorem(implies(A,implies(B,A)))).
+cnf(c_0_22,axiom,is_a_theorem(implies(implies(not(A),not(B)),implies(B,A)))).
+cnf(c_0_25,axiom,is_a_theorem(implies(necessary(A),A))).
